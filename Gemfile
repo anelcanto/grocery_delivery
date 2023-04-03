@@ -78,3 +78,5 @@ gem "jquery-rails", "~> 4.5"
 gem "pg", "~> 1.4"
 
 gem "devise", "~> 4.9"
+
+gem "bootstrap_form", "~> 5.1"
