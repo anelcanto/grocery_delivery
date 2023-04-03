@@ -76,3 +76,5 @@ gem "sass-rails", "~> 6.0"
 gem "jquery-rails", "~> 4.5"
 
 gem "pg", "~> 1.4"
+
+gem "devise", "~> 4.9"
